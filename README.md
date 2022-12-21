@@ -7,6 +7,8 @@ intorduction to requests and working with api
 pip install requests
 ```
 
+## test request module
+
 `/main.py` - import module
 ```python
 import requests
@@ -20,6 +22,7 @@ else:
     print('some request errors')
 ```
 
+## user
 `/user.py` - import module
 ```python
 import requests
