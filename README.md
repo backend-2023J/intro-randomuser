@@ -7,8 +7,7 @@ intorduction to requests and working with api
 pip install requests
 ```
 
-`/main.py`
-## import module
+`/main.py` - import module
 ```python
 import requests
 
@@ -21,14 +20,13 @@ else:
     print('some request errors')
 ```
 
-`/user.py`
-## import module
+`/user.py` - import module
 ```python
 import requests
 import json
 ```
 
-## get_user()
+`/user.py` - get_user()
 ```python
 def get_user(user_data: dict) -> dict:
     '''get user from data
@@ -47,7 +45,7 @@ def get_user(user_data: dict) -> dict:
     pass
 ```
 
-## get_users()
+`/user.py` - get_users()
 ```python
 def get_users(url: str, n: int) -> list:
     '''get n users from url
@@ -62,7 +60,7 @@ def get_users(url: str, n: int) -> list:
     pass
 ```
 
-## write_users_to_file()
+`/user.py` - write_users_to_file()
 ```python
 def write_users_to_file(file_path: str, n: int):
     '''write n users to file
@@ -75,8 +73,7 @@ def write_users_to_file(file_path: str, n: int):
 
 ```
 
-`/data.json`
-## file
+`/data.json` - file
 ```python
 [
     {
