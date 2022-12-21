@@ -1,0 +1,32 @@
+[
+    {
+        "firstname": "Delmar",
+        "lastname": "Viana",
+        "age": 73,
+        "country": "Brazil"
+    },
+    {
+        "firstname": "Zdravko",
+        "lastname": "Vuji\u010di\u0107",
+        "age": 51,
+        "country": "Serbia"
+    },
+    {
+        "firstname": "Mikael",
+        "lastname": "Aarhus",
+        "age": 23,
+        "country": "Norway"
+    },
+    {
+        "firstname": "G\u00f6khan",
+        "lastname": "Erez",
+        "age": 28,
+        "country": "Turkey"
+    },
+    {
+        "firstname": "Tub\u00e2",
+        "lastname": "Houdijk",
+        "age": 71,
+        "country": "Netherlands"
+    }
+]
