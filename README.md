@@ -95,3 +95,27 @@ def write_users_to_file(file_path: str, n: int):
     ,
 ]
 ```
+
+## user_class_based
+
+### create RandomUser class
+
+properties:
+- url
+
+methods:
+- get_randomuser()
+- get_cell()
+- get_city()
+- get_dob()
+- get_email()
+- get_email()
+- get_first_name()
+- get_last_name()
+- get_full_name()
+- get_gender()
+- get_id()
+- get_id_number()
+- get_info()
+- get_nat()
+- get_picture()
